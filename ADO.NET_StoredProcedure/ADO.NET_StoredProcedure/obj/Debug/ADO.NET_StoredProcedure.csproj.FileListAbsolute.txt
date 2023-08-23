@@ -1,0 +1,8 @@
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe.config
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.pdb
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.AssemblyReference.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.SuggestedBindingRedirects.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.CoreCompileInputs.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.exe
+D:\Indeed2\Phase-2\Daily Exercise\Day-9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.pdb
